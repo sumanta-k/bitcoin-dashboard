@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s0je3v",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~0op/s0n7s837en/head",
+  "name": "Dashboard for bitcoin Price",
+  "description": "a dashboard for fetching the price of bitcoin and weather of my current location",
   "scripts": {
     "start": "vite",
     "dev": "vite",
